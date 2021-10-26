@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  text-align: center;
+  color: red;
+}
+
+#first-paragraph {
+  text-align: center;
+  color: purple;
+}
+
+.green-paragraph {
+  text-align: center;
+  color: green;
+}

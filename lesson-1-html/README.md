@@ -252,7 +252,7 @@ The `<div>` element is often used as a container for other HTML elements. The `<
 
 Websites often display content in multiple columns (like a magazine or a newspaper).
 
-## HTML Layout Elements
+### HTML Layout Elements
 
 HTML has several semantic elements that define the different parts of a web page:
 
@@ -300,3 +300,14 @@ The `<footer>` tag defines a footer for a document or section. A `<footer>` elem
 <p><a href="mailto:someone@example.com">someone@example.com</a></p>
 </footer>
 ```
+
+## button
+
+The `<button>` tag defines a clickable button.
+
+> **Tip:** Always specify the `type` attribute for a `<button>` element, to tell browsers what type of button it is.
+
+A few attributes:
+Type (button , reset, submit) - Specifies the type of button
+Disabled - Specifies that a button should be disabled
+Form - Specifies which form the button belongs to
